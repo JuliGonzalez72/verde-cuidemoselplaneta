@@ -1,0 +1,122 @@
+.tantaro 
+{  background-image: url(titulo.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: 50px;
+  color: #27bb76;
+  padding: 70px;
+}
+
+body
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  max-width: 767px;
+  min-width: 768px;
+
+
+
+
+
+  
+}
+h3{
+  color: blueviolet;
+}
+.botonesjiji
+{
+  background-image: url(boton.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  text-align: center;
+  font-size: 50px;
+  color: #000000;
+  padding: 70px;
+}
+.contenedor
+{
+  margin-top: 20px
+  margin-left: 
+  margin-right: 
+  margin-bottom: 
+  background-color: white;
+  padding: 5px;
+  width: 1250px;
+}
+.ccassa
+{
+  display: flex;
+  background-color: rgb(103, 103, 231);
+  min-height: 70px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+
+}
+.logo
+{
+  display: flex;
+  align-items: center;
+}
+.logo img 
+{
+  height: 100px;
+  margin-right: 70px;
+
+}
+.nav-link
+{
+  text-decoration: none;
+  color: black;
+}
+.uñas
+{
+  font-weight: 600;
+  padding-right: 10px;
+}
+.nav-link:hover
+{
+  color: white;
+}
+
+@media (max-width:700 px)
+{
+  body 
+  {
+    flex-direction: column;
+  }
+  .ccassa
+  {
+    flex-direction: column;
+  }
+  .uñas
+  {
+    padding: 10px 0px;
+  }
+}
+
+.parrafoinicio
+{
+  
+  text-align: center;
+  width: 100%;
+}
+@media()
+{
+  body
+  {
+    
+  }
+}
+@media ()
+{
+  body
+  {
+
+  }
+
+}
+
